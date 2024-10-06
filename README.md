@@ -1,6 +1,6 @@
 # nasa-space-apps-2024
 
-Welcome! This is the homepage for the work of the Mat X Space team during the NASA Space Apps 2024 Hackathon!
+Welcome! This is the homepage for the work of the [Mat X Space team](https://matxspace.com/) during the NASA Space Apps 2024 Hackathon!
 
 This time, the project was [Seismic Detection Across the Solar System](https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/seismic-detection-across-the-solar-system/).
 
